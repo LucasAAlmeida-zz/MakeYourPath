@@ -23,3 +23,6 @@ MonoBehaviour:
     for your employer.
 
     2- See if any of your fellow soldiers survived.'
+  nextStates:
+  - {fileID: 11400000, guid: ed3fcccedef592d46b1ec806217aa495, type: 2}
+  - {fileID: 11400000, guid: 9e1c429975c10af4fa4fa55739535b2c, type: 2}

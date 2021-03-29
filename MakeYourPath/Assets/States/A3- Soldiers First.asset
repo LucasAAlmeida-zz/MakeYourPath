@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eaa77b7b48472ef46bb05d9219b7bb83, type: 3}
-  m_Name: CheckOtherSoldiers
+  m_Name: A3- Soldiers First
   m_EditorClassIdentifier: 
   storyText: 'After a minute calling around, one trembling voice answers. The soldier
     is in his last moments, a terrible slashing wound in his chest pump out his life
@@ -28,3 +28,6 @@ MonoBehaviour:
 
     2-
     No way, this is above my paycheck. Flee south.'
+  nextStates:
+  - {fileID: 11400000, guid: 5ba53d0f074c13e42915f44b7dcd4db2, type: 2}
+  - {fileID: 11400000, guid: e6a0c99db1dd3804ab71467157c6251c, type: 2}

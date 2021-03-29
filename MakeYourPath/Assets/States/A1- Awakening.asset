@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eaa77b7b48472ef46bb05d9219b7bb83, type: 3}
-  m_Name: StartingState
+  m_Name: A1- Awakening
   m_EditorClassIdentifier: 
   storyText: 'You wake up, surrounded by the dead bodies of your fellow soldiers.
     The carriage you were escorting is flipped, with the merchant who hired you nowhere

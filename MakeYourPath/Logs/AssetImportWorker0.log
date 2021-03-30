@@ -15,11 +15,11 @@ D:/Unity Projects/MakeYourPath/MakeYourPath
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53393
+60790
 Successfully changed project path to: D:/Unity Projects/MakeYourPath/MakeYourPath
 D:/Unity Projects/MakeYourPath/MakeYourPath
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 44.08 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 43.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
@@ -35,556 +35,52 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56884
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003061 seconds.
+Registered in 0.003042 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 45.58 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 43.65 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.782 seconds
+- Completed reload, in  1.710 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001115 seconds.
+Registered in 0.001100 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.17 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 44.81 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.232 seconds
+- Completed reload, in  1.170 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.23 seconds
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.5 MB.
+System memory in use before: 86.6 MB.
 System memory in use after: 86.5 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2264.
-Total: 2.881500 ms (FindLiveObjects: 0.215400 ms CreateObjectMapping: 0.087200 ms MarkObjects: 2.410300 ms  DeleteObjects: 0.166300 ms)
+Total: 2.650700 ms (FindLiveObjects: 0.198400 ms CreateObjectMapping: 0.071400 ms MarkObjects: 2.184300 ms  DeleteObjects: 0.195100 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/States/A1- Awakening.asset
-  artifactKey: Guid(7c78d5d2d79789748ad761c8a68036df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A1- Awakening.asset using Guid(7c78d5d2d79789748ad761c8a68036df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95204d567e5d1baf406da592aa606077') in 0.060624 seconds
-  Import took 0.064243 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.647331 seconds.
-  path: Assets/States/A3- Soldiers First.asset
-  artifactKey: Guid(9e1c429975c10af4fa4fa55739535b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A3- Soldiers First.asset using Guid(9e1c429975c10af4fa4fa55739535b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d831ca60fe45687e440c1bfad7c7cb') in 0.012108 seconds
-  Import took 0.015758 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005801 seconds.
-  path: Assets/States/A3- Soldiers First.asset
-  artifactKey: Guid(9e1c429975c10af4fa4fa55739535b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A3- Soldiers First.asset using Guid(9e1c429975c10af4fa4fa55739535b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d831ca60fe45687e440c1bfad7c7cb') in 0.005455 seconds
-  Import took 0.009227 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.738714 seconds.
-  path: Assets/States/A2- Employer First.asset
-  artifactKey: Guid(ed3fcccedef592d46b1ec806217aa495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A2- Employer First.asset using Guid(ed3fcccedef592d46b1ec806217aa495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab0eaa16bfe8f37fe1e88706a6647c6') in 0.009141 seconds
-  Import took 0.013105 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004955 seconds.
-  path: Assets/States/A2- Employer First.asset
-  artifactKey: Guid(ed3fcccedef592d46b1ec806217aa495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A2- Employer First.asset using Guid(ed3fcccedef592d46b1ec806217aa495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab0eaa16bfe8f37fe1e88706a6647c6') in 0.004970 seconds
-  Import took 0.010068 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.493095 seconds.
-  path: Assets/States
-  artifactKey: Guid(8301a7fc2fa6c634db01b0987aa4b839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States using Guid(8301a7fc2fa6c634db01b0987aa4b839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8064e95842eac07e4256607ddf177b45') in 0.009010 seconds
-  Import took 0.012741 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.439494 seconds.
-  path: Assets/States/X1- Ran away from duty.asset
-  artifactKey: Guid(e6a0c99db1dd3804ab71467157c6251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X1- Ran away from duty.asset using Guid(e6a0c99db1dd3804ab71467157c6251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f7d2dfb6dfd78d2ae6ed1d74bc9e2d4') in 0.009615 seconds
-  Import took 0.012858 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004546 seconds.
-  path: Assets/States/X1- Ran away from duty.asset
-  artifactKey: Guid(e6a0c99db1dd3804ab71467157c6251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X1- Ran away from duty.asset using Guid(e6a0c99db1dd3804ab71467157c6251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f7d2dfb6dfd78d2ae6ed1d74bc9e2d4') in 0.007215 seconds
-  Import took 0.012215 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.176571 seconds.
-  path: Assets/States/X- Game Over.asset
-  artifactKey: Guid(40dea5bac6e106440bf6e9ab73a572d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X- Game Over.asset using Guid(40dea5bac6e106440bf6e9ab73a572d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd14183eaa72f4a2b40d55d261bc022') in 0.010532 seconds
-  Import took 0.015962 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001439 seconds.
-  path: Assets/States/X- Game Over.asset
-  artifactKey: Guid(40dea5bac6e106440bf6e9ab73a572d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X- Game Over.asset using Guid(40dea5bac6e106440bf6e9ab73a572d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd14183eaa72f4a2b40d55d261bc022') in 0.005475 seconds
-  Import took 0.011072 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 32.469010 seconds.
   path: Assets/States/B1- Premature Battle.asset
   artifactKey: Guid(a5d120a00dffdda4eb34fe289c002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/B1- Premature Battle.asset using Guid(a5d120a00dffdda4eb34fe289c002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9bc467404cacfbf9e4a144a95eeef5a') in 0.010229 seconds
-  Import took 0.029122 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 33.783472 seconds.
-  path: Assets/States/B2- Surprising display.asset
-  artifactKey: Guid(93a6fd4ad9160a14d8b962ec002d3e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/B2- Surprising display.asset using Guid(93a6fd4ad9160a14d8b962ec002d3e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d34c7af65981ad5c2972dc9820c2473') in 0.026375 seconds
-  Import took 0.033535 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 35.862625 seconds.
-  path: Assets/States/X2- Impaled.asset
-  artifactKey: Guid(4c3e00d9053675b40932caae660b2b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X2- Impaled.asset using Guid(4c3e00d9053675b40932caae660b2b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0908497be70778f93295ebe0abbde5a2') in 0.018040 seconds
-  Import took 0.022393 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 83.994961 seconds.
-  path: Assets/States/B3-.asset
-  artifactKey: Guid(123c088ce3e53ee41a5a5439ce7d5d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/B3-.asset using Guid(123c088ce3e53ee41a5a5439ce7d5d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0975ba809a7fd284130cf9fd7f7667e4') in 0.009878 seconds
-  Import took 0.050062 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008012 seconds.
-  path: Assets/States/B3-.asset
-  artifactKey: Guid(123c088ce3e53ee41a5a5439ce7d5d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/B3-.asset using Guid(123c088ce3e53ee41a5a5439ce7d5d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0975ba809a7fd284130cf9fd7f7667e4') in 0.004902 seconds
-  Import took 0.009254 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001256 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.181 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.5 MB.
-System memory in use after: 85.5 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2268.
-Total: 3.081100 ms (FindLiveObjects: 0.466700 ms CreateObjectMapping: 0.243800 ms MarkObjects: 2.243300 ms  DeleteObjects: 0.126000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 35.601460 seconds.
-  path: Assets/States/B3- Wise Retreat.asset
-  artifactKey: Guid(123c088ce3e53ee41a5a5439ce7d5d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/B3- Wise Retreat.asset using Guid(123c088ce3e53ee41a5a5439ce7d5d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35fc40cff1d787dde472414e13c3f332') in 0.020050 seconds
-  Import took 0.035938 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.768018 seconds.
-  path: Assets/States/X3- Bad decision.asset
-  artifactKey: Guid(acb4e14d2e45439449157c4773fff466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X3- Bad decision.asset using Guid(acb4e14d2e45439449157c4773fff466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd022a79fd797599281b86b114fe72728') in 0.011320 seconds
-  Import took 0.021093 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.065181 seconds.
-  path: Assets/States/New State.asset
-  artifactKey: Guid(5ba53d0f074c13e42915f44b7dcd4db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/New State.asset using Guid(5ba53d0f074c13e42915f44b7dcd4db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebd74c054cb8f61bac7900e2c3e4a6df') in 0.014943 seconds
-  Import took 0.019751 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.361910 seconds.
-  path: Assets/States/A4- Following stealthily.asset
-  artifactKey: Guid(5ba53d0f074c13e42915f44b7dcd4db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A4- Following stealthily.asset using Guid(5ba53d0f074c13e42915f44b7dcd4db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2490c89bf7ae96b7ba94e3d4c51c2e48') in 0.009921 seconds
-  Import took 0.013361 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005511 seconds.
-  path: Assets/States/A4- Following stealthily.asset
-  artifactKey: Guid(5ba53d0f074c13e42915f44b7dcd4db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A4- Following stealthily.asset using Guid(5ba53d0f074c13e42915f44b7dcd4db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2490c89bf7ae96b7ba94e3d4c51c2e48') in 0.005365 seconds
-  Import took 0.009548 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.869559 seconds.
-  path: Assets/States/X4- Same tactic is a mistake.asset
-  artifactKey: Guid(5496039e3bd802b47b4063cba888559a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X4- Same tactic is a mistake.asset using Guid(5496039e3bd802b47b4063cba888559a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a667fabc13e0144ca3b141cf4b5f9ca6') in 0.011474 seconds
-  Import took 0.017455 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004426 seconds.
-  path: Assets/States/X4- Same tactic is a mistake.asset
-  artifactKey: Guid(5496039e3bd802b47b4063cba888559a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X4- Same tactic is a mistake.asset using Guid(5496039e3bd802b47b4063cba888559a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a667fabc13e0144ca3b141cf4b5f9ca6') in 0.009256 seconds
-  Import took 0.014078 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.804582 seconds.
-  path: Assets/States/A5- Make some noise.asset
-  artifactKey: Guid(0de7a0242fff9fe43b0e65b410a61934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A5- Make some noise.asset using Guid(0de7a0242fff9fe43b0e65b410a61934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdd40698c68cfbb54d87ab583404c523') in 0.010499 seconds
-  Import took 0.021256 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.849507 seconds.
-  path: Assets/States/A6- Facing the leader.asset
-  artifactKey: Guid(2c018cb6f35eb1f49a78c05102683229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A6- Facing the leader.asset using Guid(2c018cb6f35eb1f49a78c05102683229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb1b65a4226d14e9fa3e51fb7c5c4ea') in 0.009352 seconds
-  Import took 0.030451 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.333046 seconds.
-  path: Assets/States/X5- Boss defeats you.asset
-  artifactKey: Guid(ca36116cf37bdab4d82e5977d2309ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X5- Boss defeats you.asset using Guid(ca36116cf37bdab4d82e5977d2309ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6a6188f2abaf599d4c933c6bdbb43b') in 0.010215 seconds
-  Import took 0.014375 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005880 seconds.
-  path: Assets/States/X5- Boss defeats you.asset
-  artifactKey: Guid(ca36116cf37bdab4d82e5977d2309ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X5- Boss defeats you.asset using Guid(ca36116cf37bdab4d82e5977d2309ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6a6188f2abaf599d4c933c6bdbb43b') in 0.006997 seconds
-  Import took 0.011987 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.627112 seconds.
-  path: Assets/States/V- Victory.asset
-  artifactKey: Guid(be16d6ae5d7d97d46adb0c55b908758c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/V- Victory.asset using Guid(be16d6ae5d7d97d46adb0c55b908758c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403760ed310e2f82f1d2b59e8d0c87c6') in 0.013909 seconds
-  Import took 0.032329 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002541 seconds.
-  path: Assets/States/V- Victory.asset
-  artifactKey: Guid(be16d6ae5d7d97d46adb0c55b908758c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/V- Victory.asset using Guid(be16d6ae5d7d97d46adb0c55b908758c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403760ed310e2f82f1d2b59e8d0c87c6') in 0.004034 seconds
-  Import took 0.007499 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 307.584236 seconds.
-  path: Assets/States/S- Starting Point.asset
-  artifactKey: Guid(25e525ac9a71f3e4c968dbc3658d71d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/S- Starting Point.asset using Guid(25e525ac9a71f3e4c968dbc3658d71d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad281114458df8b0d80d517cf285d58') in 0.010314 seconds
-  Import took 0.014684 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004588 seconds.
-  path: Assets/States/S- Starting Point.asset
-  artifactKey: Guid(25e525ac9a71f3e4c968dbc3658d71d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/S- Starting Point.asset using Guid(25e525ac9a71f3e4c968dbc3658d71d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad281114458df8b0d80d517cf285d58') in 0.004806 seconds
-  Import took 0.008858 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 404.052930 seconds.
-  path: Assets/Scripts/GameManager.cs
-  artifactKey: Guid(de16afc7ba2f78a40a9870dd0b41b0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameManager.cs using Guid(de16afc7ba2f78a40a9870dd0b41b0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3f77258917138c5cbc2506394f0f7f') in 0.013758 seconds
-  Import took 0.017710 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.040810 seconds.
-  path: Assets/Scripts/GameManager.cs
-  artifactKey: Guid(de16afc7ba2f78a40a9870dd0b41b0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameManager.cs using Guid(de16afc7ba2f78a40a9870dd0b41b0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3f77258917138c5cbc2506394f0f7f') in 0.004762 seconds
-  Import took 0.008583 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.065349 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.359 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.5 MB.
-System memory in use after: 85.5 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2272.
-Total: 2.780500 ms (FindLiveObjects: 0.246300 ms CreateObjectMapping: 0.111700 ms MarkObjects: 2.284400 ms  DeleteObjects: 0.136900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001474 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.087 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.6 MB.
-System memory in use after: 85.5 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2276.
-Total: 2.430800 ms (FindLiveObjects: 0.269700 ms CreateObjectMapping: 0.118700 ms MarkObjects: 1.912500 ms  DeleteObjects: 0.128300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001145 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.088 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.6 MB.
-System memory in use after: 85.6 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2280.
-Total: 2.735000 ms (FindLiveObjects: 0.241900 ms CreateObjectMapping: 0.104800 ms MarkObjects: 2.260900 ms  DeleteObjects: 0.125900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001178 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.116 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.6 MB.
-System memory in use after: 85.6 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2284.
-Total: 2.725700 ms (FindLiveObjects: 0.250500 ms CreateObjectMapping: 0.105400 ms MarkObjects: 2.241200 ms  DeleteObjects: 0.127300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 536.316364 seconds.
-  path: Assets/States/A1- Awakening.asset
-  artifactKey: Guid(7c78d5d2d79789748ad761c8a68036df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A1- Awakening.asset using Guid(7c78d5d2d79789748ad761c8a68036df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59fe4f90b690f77fb38f883451b4a5b9') in 0.027591 seconds
-  Import took 0.032142 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/States/X2- Impaled.asset
-  artifactKey: Guid(4c3e00d9053675b40932caae660b2b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X2- Impaled.asset using Guid(4c3e00d9053675b40932caae660b2b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28eb5964abad722e10e648ffeb01edc1') in 0.017461 seconds
-  Import took 0.022608 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000383 seconds.
-  path: Assets/States/A5- Make some noise.asset
-  artifactKey: Guid(0de7a0242fff9fe43b0e65b410a61934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A5- Make some noise.asset using Guid(0de7a0242fff9fe43b0e65b410a61934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '618df06f6b696a429e3783055359e841') in 0.015031 seconds
-  Import took 0.019320 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/States/A6- Facing the leader.asset
-  artifactKey: Guid(2c018cb6f35eb1f49a78c05102683229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A6- Facing the leader.asset using Guid(2c018cb6f35eb1f49a78c05102683229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937f0b623cabeead453aadd01961f0ae') in 0.017932 seconds
-  Import took 0.022972 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/States/B3- Wise Retreat.asset
-  artifactKey: Guid(123c088ce3e53ee41a5a5439ce7d5d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/B3- Wise Retreat.asset using Guid(123c088ce3e53ee41a5a5439ce7d5d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '183e1a075d351df8498a936e31889637') in 0.019052 seconds
-  Import took 0.023538 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/States/X5- Boss defeats you.asset
-  artifactKey: Guid(ca36116cf37bdab4d82e5977d2309ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X5- Boss defeats you.asset using Guid(ca36116cf37bdab4d82e5977d2309ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b02161621f782685730142038c49a86') in 0.018955 seconds
-  Import took 0.023655 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/States/X3- Bad decision.asset
-  artifactKey: Guid(acb4e14d2e45439449157c4773fff466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X3- Bad decision.asset using Guid(acb4e14d2e45439449157c4773fff466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7850e3317a78ce0c03f0f782d8e5a6a') in 0.017894 seconds
-  Import took 0.023512 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/States/V- Victory.asset
-  artifactKey: Guid(be16d6ae5d7d97d46adb0c55b908758c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/V- Victory.asset using Guid(be16d6ae5d7d97d46adb0c55b908758c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad93f7d270df6b00cf618fdb5e1df7b7') in 0.014973 seconds
-  Import took 0.019034 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/States/X4- Same tactic is a mistake.asset
-  artifactKey: Guid(5496039e3bd802b47b4063cba888559a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X4- Same tactic is a mistake.asset using Guid(5496039e3bd802b47b4063cba888559a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ba4961c539029a7ad7cd39bcc7bcfd7') in 0.015236 seconds
-  Import took 0.018445 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/States/X1- Ran away from duty.asset
-  artifactKey: Guid(e6a0c99db1dd3804ab71467157c6251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X1- Ran away from duty.asset using Guid(e6a0c99db1dd3804ab71467157c6251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f149d5deadef6734b9a072c50e93743') in 0.017791 seconds
-  Import took 0.021738 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000323 seconds.
-  path: Assets/States/A4- Following stealthily.asset
-  artifactKey: Guid(5ba53d0f074c13e42915f44b7dcd4db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A4- Following stealthily.asset using Guid(5ba53d0f074c13e42915f44b7dcd4db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee4465eac8a2db805e653bf964ece04a') in 0.020291 seconds
-  Import took 0.024174 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/States/S- Starting Point.asset
-  artifactKey: Guid(25e525ac9a71f3e4c968dbc3658d71d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/S- Starting Point.asset using Guid(25e525ac9a71f3e4c968dbc3658d71d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8911fec246a467d860ddf123ae361a2') in 0.010328 seconds
-  Import took 0.013923 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/States/X- Game Over.asset
-  artifactKey: Guid(40dea5bac6e106440bf6e9ab73a572d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/X- Game Over.asset using Guid(40dea5bac6e106440bf6e9ab73a572d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d4d31b797fb3b7ab9eb2c24a6c8503') in 0.015917 seconds
-  Import took 0.021462 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/States/A2- Employer First.asset
-  artifactKey: Guid(ed3fcccedef592d46b1ec806217aa495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A2- Employer First.asset using Guid(ed3fcccedef592d46b1ec806217aa495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e0649319ce62611d2af076cc096311b') in 0.014012 seconds
-  Import took 0.017349 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/States/A3- Soldiers First.asset
-  artifactKey: Guid(9e1c429975c10af4fa4fa55739535b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/A3- Soldiers First.asset using Guid(9e1c429975c10af4fa4fa55739535b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6abf2abdde3874d1f451ba38186df7') in 0.015963 seconds
-  Import took 0.019479 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/States/B1- Premature Battle.asset
-  artifactKey: Guid(a5d120a00dffdda4eb34fe289c002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/B1- Premature Battle.asset using Guid(a5d120a00dffdda4eb34fe289c002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8abe749f35d8e4b370a27e968e076ce') in 0.013032 seconds
-  Import took 0.017354 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/States/B2- Surprising display.asset
-  artifactKey: Guid(93a6fd4ad9160a14d8b962ec002d3e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/States/B2- Surprising display.asset using Guid(93a6fd4ad9160a14d8b962ec002d3e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b784fa9cfcda70c5e7667c77d67a38b') in 0.016051 seconds
-  Import took 0.019730 seconds .
+Start importing Assets/States/B1- Premature Battle.asset using Guid(a5d120a00dffdda4eb34fe289c002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4b5c89ebf97d323181338a4484a9e0e') in 0.059034 seconds
+  Import took 0.062333 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

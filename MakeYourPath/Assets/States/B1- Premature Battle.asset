@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: B1- Premature Battle
   m_EditorClassIdentifier: 
   storyText: 'In half an hour, you catch up to the goblins. You see that 5 survived
-    the attack, including the bigger goblinoid, probably the leader. Seeing you,
+    the attack, not including the bigger goblinoid, probably the leader. Seeing you,
     3 of the goblins charge at you.
 
-    
+
 
     1- Focus on defense!
 
-    2- Focus
-    on attack!
+    2- Focus on
+    attack!
 
     3- Run away!'
   nextStates:

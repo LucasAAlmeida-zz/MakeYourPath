@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
@@ -10,14 +8,12 @@ public class GameManager : MonoBehaviour
 
     State state;
 
-    // Start is called before the first frame update
     void Start()
     {
         state = startingState;
         storyText.text = state.GetStateStory();
     }
 
-    // Update is called once per frame
     void Update()
     {
         ManageState();
@@ -25,16 +21,23 @@ public class GameManager : MonoBehaviour
 
     private void ManageState()
     {
-        if (Input.GetKeyDown(KeyCode.Alpha1) || Input.GetKeyDown(KeyCode.Alpha2) || Input.GetKeyDown(KeyCode.Alpha3)) {
-            var nextStates = state.GetNextStates();
+        var nextStates = state.GetNextStates();
+        if (AcceptedInputPressed(nextStates)) {
             if (Input.GetKeyDown(KeyCode.Alpha1)) {
                 state = nextStates[0];
             } else if (Input.GetKeyDown(KeyCode.Alpha2)) {
                 state = nextStates[1];
             } else if (Input.GetKeyDown(KeyCode.Alpha3)) {
-                state = nextStates[1];
+                state = nextStates[2];
             }
             storyText.text = state.GetStateStory();
         }
+    }
+
+    private static bool AcceptedInputPressed(State[] nextStates)
+    {
+        return Input.GetKeyDown(KeyCode.Alpha1)
+            || (Input.GetKeyDown(KeyCode.Alpha2) && nextStates.Length > 1)
+            || (Input.GetKeyDown(KeyCode.Alpha3) && nextStates.Length > 2);
     }
 }
